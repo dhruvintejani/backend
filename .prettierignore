@@ -4,3 +4,7 @@
 
 *.env
 .env
+
+
+// sample_mflix
+// mongodb://atlas-sql-697708cbbb80b493a4cd15c0-vx4syn.a.query.mongodb.net/sample_mflix?ssl=true&authSource=admin
